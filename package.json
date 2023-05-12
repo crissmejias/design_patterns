@@ -1,0 +1,15 @@
+{
+  "name": "singleton",
+  "version": "1.0.0",
+  "description": "ejemplo práctico de singleton",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "singleton",
+    "javascript",
+    "patrones de diseño"
+  ],
+  "author": "Cristhian Mejias Serrano",
+  "license": "MIT"
+}
